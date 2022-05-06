@@ -4,13 +4,11 @@
 - 💞️ I’m looking to collaborate on Front-end projects
 - 📫 How to reach me ? on my </gmail value="abdelhamidhamzaa@gmail.com" > 
 
-
+<hr>
 
 <div align = "center">
 
 ![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-
-<hr>
 
 </div>
 <!---
