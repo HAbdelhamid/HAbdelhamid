@@ -11,13 +11,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAbdelhamid&theme=tokyonight&layout=compact" />
 </a>
 
-<br/>
+<br>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{HAbdelhamid}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-<br/>
+<br>
 
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
