@@ -10,7 +10,7 @@
 
 ![HAbdelhamid's Github Status](https://github-readme-stats.vercel.app/api?username=HAbdelhamid&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAbdelhamid&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAbdelhamid&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 </div>
 
