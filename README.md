@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mygo.ge%2Fen%2F25%2Fblog%2Fwebsite-development.html&psig=AOvVaw31K6JVl0JlHHfbSdekg4t_&ust=1652014817566000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIip3Pq4zfcCFQAAAAAdAAAAABAq" alt="Synthwave" height="300" width="100%"></p>
+<p align="center"><img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Synthwave" height="300" width="100%"></p>
 
 <br>
 
