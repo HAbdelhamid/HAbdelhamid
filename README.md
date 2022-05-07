@@ -11,7 +11,7 @@
 <br>
 
 <a href="https://github.com/HAbdelhamid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAbdelhamid&theme=tokyonight&show_icons=true&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAbdelhamid&theme=tokyonight&show_icons=true&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAbdelhamid&theme=tokyonight&layout=compact" />
 </a>
 
