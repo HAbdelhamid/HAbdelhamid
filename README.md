@@ -1,3 +1,7 @@
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="500" width="100%"></p>
+
+<br>
+
 - 👋 Hi, I’m @HAbdelhamid
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Javascript Frameworks(React,Vue,Angular)
@@ -19,8 +23,6 @@
 
 <br>
 
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="100%"></p>
 <!---
 HAbdelhamid/HAbdelhamid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
