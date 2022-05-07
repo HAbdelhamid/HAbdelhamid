@@ -12,13 +12,13 @@
 
 </div>
 
-<hr>
+<br>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{HAbdelhamid}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-<hr>
+<br>
 
 <h4 align="center">Top langs </h4>
 
