@@ -23,6 +23,8 @@
 <h4 align="center">Top langs </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAbdelhamid&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 <!---
 HAbdelhamid/HAbdelhamid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
