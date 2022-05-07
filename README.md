@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on Front-end projects
 - 📫 How to reach me ? on my </gmail value="abdelhamidhamzaa@gmail.com" > 
 
-<hr>
+
 
 <a href="https://github.com/HAbdelhamid">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAbdelhamid&theme=tokyonight&show_icons=true"        show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000 />
@@ -16,6 +16,8 @@
 </a>
 
 <br>
+
+<hr>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
