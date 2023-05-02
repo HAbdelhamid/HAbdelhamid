@@ -2,10 +2,10 @@
 
 <br>
 
-- 👋 Hi, I’m @HAbdelhamid
+- 👋 Hi, I’m Abdelhamid
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Javascript Frameworks(React,Vue,Angular)
-- 💞️ I’m looking to collaborate on Front-end projects
+- 💞️ I’m looking to collaborate on any projects related to web development
 - 📫 How to reach me ? on my </gmail value="abdelhamidhamzaa@gmail.com" > 
 
 <br>
