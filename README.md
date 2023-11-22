@@ -23,13 +23,6 @@
 
 
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=HAbdelhamid&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HAbdelhamid&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
 
 <!---
 HAbdelhamid/HAbdelhamid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
