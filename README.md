@@ -1,5 +1,3 @@
-<p align="center"><img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Synthwave" height="300" width="100%"></p>
-
 <br>
 
 - 👋 Hi, I’m Abdelhamid
@@ -18,7 +16,7 @@
 
 <br>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
 
 
