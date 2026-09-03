@@ -21,7 +21,7 @@
 <br>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=HAbdelhamid&show_icons=true&theme=dark&locale=en&layout=compact" alt="visitors counter" /></p>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HAbdelhamid&theme=tokyonight" alt="mystreak"/>
 
 
 <!---
