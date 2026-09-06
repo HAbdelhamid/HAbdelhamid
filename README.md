@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Abdelhamid 👋</h1>
 
 <p align="center">
-  <img src="https://photos.app.goo.gl/54ivPeeYofz4c61k8" alt="Abdelhamid banner" />
+  <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/d2f2119e-0761-413d-83c7-cb2f4eabfab1" />
+
 </p>
 
 <p align="center">
