@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Abdelhamid 👋</h1>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/e44b1581-2317-43a9-8773-24149d081ff3" alt="Abdelhamid banner" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&center=true&vCenter=true&width=720&lines=Software+Developer;Front-end+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Typing animation" />
 </p>
 
@@ -31,12 +35,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAbdelhamid&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HAbdelhamid&theme=github_dark" height="170" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=HAbdelhamid&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAbdelhamid&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HAbdelhamid&theme=github_dark" height="170" alt="Top languages" />
 </p>
 
 ## 🌐 Connect With Me
