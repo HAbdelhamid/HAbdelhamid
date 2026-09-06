@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abdelhamid 👋</h1>
 
 <p align="center">
-  <img width="1024" height="572" alt="image" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
+  <img alt="image" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
 
 </p>
 
