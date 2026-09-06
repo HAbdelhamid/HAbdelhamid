@@ -9,9 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&center=true&vCenter=true&width=720&lines=Software+Developer;Front-end+Developer;Problem+Solver;Freelancer;Always+Learning+New+Tech" alt="Typing animation" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amonjid/amonjid/output/snake.svg" alt="Typing animation" />
-</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/amonjid/amonjid/output/snake.svg" alt="Snake animation" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HAbdelhamid&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
