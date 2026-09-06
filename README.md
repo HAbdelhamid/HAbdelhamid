@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abdelhamid 👋</h1>
 
 <p align="center">
-  <img src="blob:https://gemini.google.com/5836f88c-f742-4e24-9a59-990542fbc417" alt="Abdelhamid banner" />
+  <img src="https://share.gemini.google/Br3Y0xluYUzA" alt="Abdelhamid banner" />
 </p>
 
 <p align="center">
