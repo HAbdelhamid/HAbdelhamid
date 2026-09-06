@@ -14,16 +14,6 @@
 
 <hr>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{HAbdelhamid}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-
-<br>
-
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=HAbdelhamid&show_icons=true&theme=dark&locale=en&layout=compact" alt="visitors counter" /></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HAbdelhamid&theme=tokyonight" alt="mystreak"/>
-
-
 <!---
 HAbdelhamid/HAbdelhamid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
