@@ -46,18 +46,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-/*## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HAbdelhamid&theme=github_dark" height="170" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=HAbdelhamid&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HAbdelhamid&theme=github_dark" height="170" alt="Top languages" />
-</p>
-*/
-
 ## 🌐 Connect With Me
 
 <p>
